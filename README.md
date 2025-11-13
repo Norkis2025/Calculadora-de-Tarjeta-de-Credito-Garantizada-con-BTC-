@@ -1,4 +1,3 @@
-# Calculadora-de-Tarjeta-de-Credito-Garantizada-con-BTC-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
